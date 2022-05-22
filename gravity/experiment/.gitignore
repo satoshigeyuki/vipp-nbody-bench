@@ -1,0 +1,6 @@
+*.csv
+CMake*
+cmake*
+Makefile
+nbody_benchmark_gravity
+*.log
